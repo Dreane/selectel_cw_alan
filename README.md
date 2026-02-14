@@ -6,7 +6,7 @@ FastAPI-приложение для парсинга публичных вака
 ## Быстрый старт
 
 1. Клонируйте репозиторий (или распакуйте проект из архива):
-   `git clone --branch with-bugs https://github.com/selectel/be-test.git`
+   `git clone ghttps://github.com/Dreane/selectel_cw_alan.git`
 2. Создайте `.env` на основе примера:
    `cp .env.example .env`
 3. Примените переменные окружения `.env`:
